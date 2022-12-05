@@ -8,3 +8,8 @@
   - main
   - hyeonwoo
   - heesung
+
+### 쓸 거
+- stack
+- queue
+- binary search
